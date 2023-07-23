@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MKC</string>
+
+    <string name="mkc">Murda Kick Chat Widget</string>
+    <string name="mkc_enable">Go!</string>
+    <string name="width">Width:</string>
+    <string name="height">Height:</string>
+    <string name="alpha">Transparency:</string>
+</resources>
